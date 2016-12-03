@@ -5,7 +5,7 @@
 * 연락처
 ![email](https://img.shields.io/badge/email-kbbaeggom%40naver.com-blue.svg)
 ![github](https://img.shields.io/badge/github-kbbaeggom%40naver.com-blue.svg)
-![mobile](https://img.shields.io/badge/mobile-010 8545 8744-blue.svg)
+![mobile](https://img.shields.io/badge/mobile-222 2222 2222-blue.svg)
 
 ##기술스택
 
